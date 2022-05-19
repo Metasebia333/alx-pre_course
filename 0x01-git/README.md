@@ -1,1 +1,2 @@
-Directory readme
+My first readme
+requested update
